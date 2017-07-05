@@ -1,0 +1,23 @@
+https://git-scm.com/
+
+
+ls Desplega todo lo que hay 
+ls -a Muestra archivos ocultos
+pwd En donde se está actualmente
+cd Para entrar a alguna dirección
+cd ..   Me regresa 
+mkdir Crear carpetas
+mv -----
+nano 
+git init Hace repositorio de git
+git branch Desplega las ramas que hay 
+touch  archivo.html Crea un archivo 
+git status Muestra archivos nuevos o modificados
+git add . Agrega todo
+git commit Grabar
+git commit -m Grabas y agregas mensaje
+git branch "nombre" Creas branch
+git checkout moya Cambias a la rama moya
+git diff master develop Muestra diferencias
+git rm otroArchivo.html Borra ese archivo 
+git push origin prueba1
